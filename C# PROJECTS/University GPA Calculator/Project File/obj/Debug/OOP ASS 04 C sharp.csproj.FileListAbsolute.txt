@@ -1,0 +1,21 @@
+F:\Programms\VS\OOP ASS 04\bin\Debug\OOP ASS 04.exe.config
+F:\Programms\VS\OOP ASS 04\bin\Debug\OOP ASS 04.exe
+F:\Programms\VS\OOP ASS 04\bin\Debug\OOP ASS 04.pdb
+F:\Programms\VS\OOP ASS 04\obj\Debug\OOP ASS 04 C sharp.csproj.AssemblyReference.cache
+F:\Programms\VS\OOP ASS 04\obj\Debug\OOP_ASS_04.Form1.resources
+F:\Programms\VS\OOP ASS 04\obj\Debug\OOP_ASS_04.Properties.Resources.resources
+F:\Programms\VS\OOP ASS 04\obj\Debug\OOP ASS 04 C sharp.csproj.GenerateResource.cache
+F:\Programms\VS\OOP ASS 04\obj\Debug\OOP ASS 04 C sharp.csproj.CoreCompileInputs.cache
+F:\Programms\VS\OOP ASS 04\obj\Debug\OOP ASS 04.exe
+F:\Programms\VS\OOP ASS 04\obj\Debug\OOP ASS 04.pdb
+F:\Programms\Github_repo\OOP ASS 04\bin\Debug\OOP ASS 04.exe.config
+F:\Programms\Github_repo\OOP ASS 04\bin\Debug\OOP ASS 04.exe
+F:\Programms\Github_repo\OOP ASS 04\bin\Debug\OOP ASS 04.pdb
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP ASS 04 C sharp.csproj.AssemblyReference.cache
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP ASS 04 C sharp.csproj.SuggestedBindingRedirects.cache
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP_ASS_04.Form1.resources
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP_ASS_04.Properties.Resources.resources
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP ASS 04 C sharp.csproj.GenerateResource.cache
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP ASS 04 C sharp.csproj.CoreCompileInputs.cache
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP ASS 04.exe
+F:\Programms\Github_repo\OOP ASS 04\obj\Debug\OOP ASS 04.pdb
