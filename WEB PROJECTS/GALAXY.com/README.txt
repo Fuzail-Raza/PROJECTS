@@ -17,7 +17,7 @@ Make sure you have the necessary software requirements installed, such as a web 
 Copy the project files to the root directory of your web server.
 Ensure that the web server is running.
 
-Open a web browser and navigate to the project's URL (e.g., http://localhost/cricket-info-website).
+Open a web browser and navigate to the project's URL (e.g., http://localhost/GALAXY.com).
 You should now see the homepage of the Cricket Info Website.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -28,6 +28,9 @@ To access the admin features, use the following credentials:
 Username: admin@gmail.com
 Password: 123
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+Documentation to use PHPMAiler to send emails :
+For more detailed instructions and options, refer to the official PHPMailer documentation: https://github.com/PHPMailer/PHPMailer
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Contributions
