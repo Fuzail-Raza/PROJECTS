@@ -1,0 +1,23 @@
+F:\Programms\VS\Ass 3 OOP C sharp\bin\Debug\Ass 3 OOP C sharp.exe.config
+F:\Programms\VS\Ass 3 OOP C sharp\bin\Debug\Ass 3 OOP C sharp.exe
+F:\Programms\VS\Ass 3 OOP C sharp\bin\Debug\Ass 3 OOP C sharp.pdb
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass_3_OOP_C_sharp.Properties.Resources.resources
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.csproj.GenerateResource.cache
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.csproj.CoreCompileInputs.cache
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.exe
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.pdb
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass_3_OOP_C_sharp.Calculator.resources
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.csproj.AssemblyReference.cache
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass_3_OOP_C_sharp.Properties.Form5.resources
+F:\Programms\VS\Ass 3 OOP C sharp\obj\Debug\Ass_3_OOP_C_sharp.Properties.Form1.resources
+F:\Programms\Github_repo\Ass 3 OOP C sharp\bin\Debug\Ass 3 OOP C sharp.exe.config
+F:\Programms\Github_repo\Ass 3 OOP C sharp\bin\Debug\Ass 3 OOP C sharp.exe
+F:\Programms\Github_repo\Ass 3 OOP C sharp\bin\Debug\Ass 3 OOP C sharp.pdb
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.csproj.AssemblyReference.cache
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.csproj.SuggestedBindingRedirects.cache
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass_3_OOP_C_sharp.Calculator.resources
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass_3_OOP_C_sharp.Properties.Resources.resources
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.csproj.GenerateResource.cache
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.csproj.CoreCompileInputs.cache
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.exe
+F:\Programms\Github_repo\Ass 3 OOP C sharp\obj\Debug\Ass 3 OOP C sharp.pdb

@@ -1,0 +1,11 @@
+F:\Programms\Github_repo\C#\Calculator\Project File\bin\Debug\Ass 3 OOP C sharp.exe.config
+F:\Programms\Github_repo\C#\Calculator\Project File\bin\Debug\Ass 3 OOP C sharp.exe
+F:\Programms\Github_repo\C#\Calculator\Project File\bin\Debug\Ass 3 OOP C sharp.pdb
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Ass_3_OOP_C_sharp.Calculator.resources
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Ass_3_OOP_C_sharp.Properties.Resources.resources
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Ass 3 OOP C sharp.exe
+F:\Programms\Github_repo\C#\Calculator\Project File\obj\Debug\Ass 3 OOP C sharp.pdb
