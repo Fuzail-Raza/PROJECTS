@@ -6,7 +6,8 @@ This repository contains a collection of projects implemented in various program
 Projects Included
 The repository consists of the following projects:
 
-# C++ Projects: This folder contains projects implemented in C++, showcasing different concepts and algorithms in the C++ programming language.
+# C++ Projects:
+This folder contains projects implemented in C++, showcasing different concepts and algorithms in the C++ programming language.
 
 # C# Projects: 
 This folder includes projects written in C#, covering a wide range of applications, such as desktop applications, web services, and more.
